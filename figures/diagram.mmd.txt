@@ -1,0 +1,6 @@
+flowchart TD
+    A[User Prompt] --> B[Student Model]
+    B --> C[Intermediate Reasoning]
+    C --> D[Observer Model]
+    D -->|PROCEED| B
+    D -->|STOP| E[Halt Generation]
