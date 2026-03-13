@@ -283,8 +283,8 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 📬 Contact
 
-**Pranav Vachharajani**  
-📧 pranavk27@gmail.com
+**Pranav V**  
+
 
 ---
 
