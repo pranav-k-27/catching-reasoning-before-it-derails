@@ -4,6 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19553597.svg)](https://doi.org/10.5281/zenodo.19553597)
 
+
 > **Inference-Time Process Supervision for Large Language Models**
 
 A dual-model framework that monitors LLM reasoning in real-time and intervenes when semantic failures are detected—before errors cascade into confident hallucinations.
